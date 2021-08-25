@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">翔翎</string>
+
+    <string name="playback_failed">播放失败</string>
+    <string name="data_interrupt">数据中断</string>
+    <string name="s_over_get">s后获取</string>
+    <string name="get_verification_code">获取验证码</string>
+    <string name="the_mobile_number_has_been_registered_please_re_enter">该手机号码已被注册，请重新输入</string>
+    <string name="verification_passed">验证通过</string>
+    <string name="please_enter_the_correct_number">请输入正确号码</string>
+    <string name="number_is_null">号码不能为空</string>
+    <string name="verification_code_is_null">验证码不能为空</string>
+</resources>
